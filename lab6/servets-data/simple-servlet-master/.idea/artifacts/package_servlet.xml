@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="package-servlet">
+    <output-path>$PROJECT_DIR$/simple-servlet-master</output-path>
+    <root id="archive" name="package-servlet.war" />
+  </artifact>
+</component>
